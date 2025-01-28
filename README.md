@@ -4,7 +4,7 @@ Automation library for Android, allowing you to invoke shell commands, manage fi
 
 # <samp>GUIDANCE</samp>
 
-### Import the Library
+### Import the library
 
 Add repository to settings.gradle:
 

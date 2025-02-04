@@ -1,6 +1,6 @@
 # <samp>OVERVIEW</samp>
 
-Automation library for Android, allowing you to invoke shell commands, manage files and packages, select elements using xpath, and much more.
+Automation purpose library for Android.
 
 <table>
   <tr align="center">
@@ -20,6 +20,14 @@ Automation library for Android, allowing you to invoke shell commands, manage fi
     <td width="9999">🟥</td>
   </tr>
 </table>
+
+# <samp>FEATURES</samp>
+
+- Expand archives
+- Invoke shell commands
+- Manage files and packages
+- Scrape screen elements
+- Select elements with xpath
 
 # <samp>GUIDANCE</samp>
 

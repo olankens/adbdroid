@@ -1,6 +1,6 @@
 # <samp>OVERVIEW</samp>
 
-Automation purpose library for Android.
+Automation library for Android (work in progress).
 
 <table>
   <tr align="center">

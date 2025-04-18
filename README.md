@@ -1,6 +1,6 @@
-# <samp>OVERVIEW</samp>
+# <samp>OVERVIEW (WIP)</samp>
 
-Automation library for Android (work in progress).
+Advanced automation library for Android.
 
 <table>
   <tr align="center">
@@ -31,7 +31,7 @@ Automation library for Android (work in progress).
 
 # <samp>GUIDANCE</samp>
 
-### Import the library
+### Import library
 
 Add repository to settings.gradle:
 
